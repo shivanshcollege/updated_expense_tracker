@@ -1,10 +1,10 @@
-#A simple expense tracker built in python 
+A simple expense tracker built in python
 
 allows users to record,view and analyse daily expenses using a menu interface
 
 all the data is store in a database with sql 
 
-#Features
+Features
 Add new expenses
 View all expenses
 Filter by category or month
